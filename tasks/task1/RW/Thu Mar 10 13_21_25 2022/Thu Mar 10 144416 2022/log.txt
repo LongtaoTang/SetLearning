@@ -1,0 +1,15 @@
+we predict by RW.
+use_size_bias: True
+size_bias_root: ../tasks/task1/SizeBias/plan1/Fri Feb 11 21_54_55 2022
+output_size: 10000000
+metric: l1_distance
+There are 8 data
+results are:
+1.0569388739801098
+0.9725896167623025
+0.8804684135982257
+0.8656362568435458
+0.9042592859211254
+0.919911542826042
+0.9474190885892069
+0.8425977883066555
