@@ -1,0 +1,14 @@
+We use histogram + size bias to predict.
+There are 8 groups.
+We will predict 10000000 subsets.
+The bias size we use is from ../tasks/task1/SizeBias/plan1/Fri Feb 11 21:54:55 2022/bias_size0.pickle and so on.
+The metric we use is l1_distance.
+The result of each group as fellow:
+1.064850519177331
+0.9746180620695919
+0.8672035265552986
+0.8619404231357739
+0.9020680878722271
+0.8987488680820737
+0.8895066219879775
+0.8149786847146152
