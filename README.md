@@ -4,18 +4,21 @@ This repository is the source code of "Sequential to Set and Set Neural Networks
 
 You need python to run it. Pytorch, networkx, numpy are needed.
 
-## "utility": 
+## utility: 
   util.py: contains some useful function.
   metric.py: contains a function to calculate L1-distance.
   
-"SizeBias":
+## SizeBias:
   plan1.py: output the sizebias array by plan1.
   
-"Baseline": baseline method
+## Baseline:
+  baseline method which use the histogram of training data. 
   
-"DCM": method form paper "A Discrete Choice Model for Subset Selection"
+## DCM:
+  method form paper "A Discrete Choice Model for Subset Selection"
 
-"RW": method form paper "Representation Learning for Predicting Customer Orders", the file randomwalk_fast_neighborhood_v3.py is copy form thier source code.
+## RW: 
+method form paper "Representation Learning for Predicting Customer Orders", the file randomwalk_fast_neighborhood_v3.py is copy form thier source code.
 
-
-  
+## SubsetLearningFramework:
+contain the Sequential2Set interface and two model. 
