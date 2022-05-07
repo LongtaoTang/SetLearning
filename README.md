@@ -21,4 +21,7 @@ You need python to run it. Pytorch, networkx, numpy are needed.
 method form paper "Representation Learning for Predicting Customer Orders", the file randomwalk_fast_neighborhood_v3.py is copy form thier source code.
 
 ## SubsetLearningFramework:
-contain the Sequential2Set interface and two model. 
+SubsetLearningFramework.py: contain the Sequential2Set interface.
+You can extend this class for you own Sequential2Set model.  
+
+GRUv2.py: class of GRU2Set model. 
