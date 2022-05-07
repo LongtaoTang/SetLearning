@@ -1,0 +1,17 @@
+we use DCM method.
+use_size_bias: False
+size_bias_root: ../tasks/task3/SizeBias/plan1/Sun Apr 10 00_09_49 2022
+output_size: 10000000
+metric: l1_distance
+DCM process_size: 5
+DCM h_sizes: [100. 100. 100. 100. 100.]
+There are 8 data
+results are:
+0.7608329430269352
+0.8905780439936568
+0.9325480945004434
+0.8783235486361631
+0.8411296153093486
+0.8927069727567274
+0.835891309873056
+0.8234434771739305
