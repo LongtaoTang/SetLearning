@@ -3,6 +3,11 @@ In 'whole data', each file contains all order in a month.
 All data are shuffled randomly.
 The train data is the first 200000 data in whole data.
 
+We split each data in a month by a training set and a testing set.
+Each training or testing set is a python list like "[{1}, {1, 3}, {2, 5, 9}, ...]".
+Each element in list is a python set.
+You should use pickle.load() to load those files.
+
 train_size = [200000,
               200000,
               200000,
