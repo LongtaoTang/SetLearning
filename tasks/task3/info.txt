@@ -1,0 +1,24 @@
+The data contain the supermarket orders in HKTVmall from 2020-Feb to 2020-Sep.
+In 'whole data', each file contains all order in a month.
+All data are shuffled randomly.
+The train data is the first 200000 data in whole data.
+
+train_size = [200000,
+              200000,
+              200000,
+              200000,
+              200000,
+              200000,
+              200000,
+              200000,
+              ]
+
+test_size = [404171,
+             605796,
+             590200,
+             611974,
+             597536,
+             802269,
+             607315,
+             713948,
+             ]
