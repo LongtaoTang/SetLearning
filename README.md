@@ -25,3 +25,12 @@ SubsetLearningFramework.py: contain the Sequential2Set interface.
 You can extend this class for you own Sequential2Set model.  
 
 GRUv2.py: class of GRU2Set model. 
+
+SetEmbeddingv2.py: class of SetNN.
+
+SparseGragh: biuld the item graph. 
+
+## tasks:
+Dataset are store here. trained model and predicting data also store in here. (We delete the predicting data since thier are too large, while the trained model are remained)
+task1 is the Tmall task. 
+task3 is the HKTVmall task. 
