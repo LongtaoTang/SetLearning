@@ -4,7 +4,7 @@ This repository is the source code of "Sequential to Set and Set Neural Networks
 
 You need python to run it. Pytorch, networkx, numpy are needed.
 
-"utility": 
+## "utility": 
   util.py: contains some useful function.
   metric.py: contains a function to calculate L1-distance.
   
