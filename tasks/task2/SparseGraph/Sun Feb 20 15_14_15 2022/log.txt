@@ -1,0 +1,12 @@
+The build method we used is graph1
+There are 1363 nodes in the graph
+There are 8 groups
+The edges number of each group as follows
+21761
+19853
+17260
+17077
+18694
+18625
+17657
+15902

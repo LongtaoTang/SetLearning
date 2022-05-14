@@ -1,0 +1,11 @@
+We use size_bias_plan1.
+k = 5
+we do not generate subset with size >=5
+The size of training data is:
+[0.4061 0.1775 0.1391 0.1019 0.064 ]
+The over rest coefficient is:
+[0.4061     0.29887186 0.33405379 0.36747205 0.36488027]
+The modified over rest coefficient is:
+[0.7752883 1.        1.        1.        1.       ]
+The biased size is:
+[0.7752883 0.2247117 0.        0.        0.       ]
