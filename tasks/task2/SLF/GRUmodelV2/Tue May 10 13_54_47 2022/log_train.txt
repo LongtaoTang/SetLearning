@@ -1,0 +1,8 @@
+we use GRUmodelV2 for training.
+embedding dim: 10
+batch_size: 100
+num_of_samples: 50
+num_of_training: 51
+optimizer_method: RMSprop
+graph_root: ../tasks/task2/SparseGraph/Sun Feb 20 15_14_15 2022
+In each dictionary, we put the model after train of each group. The model5.pickle means the model was train by 5+1 round of whole data set.
