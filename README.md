@@ -35,5 +35,7 @@ SparseGragh: biuld the item graph.
 Dataset are store here. trained model and predicting data also store in here. (We delete the predicting data since thier are too large, while the trained model are remained)
 
 task1 is the Tmall task. 
+
 task1 is the Tmall-small task. 
+
 task3 is the HKTVmall task. 
