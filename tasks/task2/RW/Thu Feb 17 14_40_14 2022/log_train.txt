@@ -1,7 +1,0 @@
-we use RW method for training.
-initial_learning_rate: 0.01
-factor: 0.999
-batch_size: 128
-embedding dim: 10
-max subset size we use: 10
-how many steps we train: 3000
