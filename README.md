@@ -1,6 +1,6 @@
 # SetLearning
 
-This repository is the source code of "Sequential to Set and Set Neural Networks" Submitted to 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
+This repository is the source code of "Sequence-to-Set generative model" Submitted to 36th Conference on Neural Information Processing Systems (NeurIPS 2022).
 
 You need python to run it. Pytorch, networkx, numpy are needed.
 
