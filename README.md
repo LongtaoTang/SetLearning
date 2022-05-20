@@ -36,6 +36,4 @@ Dataset are store here. trained model and predicting data also store in here. (W
 
 task1 is the Tmall task. 
 
-task1 is the Tmall-small task. 
-
 task3 is the HKTVmall task. 
