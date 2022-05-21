@@ -1,3 +1,5 @@
+To apply the data: https://opendatabank.hktvmall.com/portal/register
+
 The data contain the supermarket orders in HKTVmall from 2020-Feb to 2020-Sep.
 In 'whole data', each file contains all order in a month.
 All data are shuffled randomly.
