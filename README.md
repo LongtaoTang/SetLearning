@@ -36,4 +36,4 @@ Dataset are store here. trained model and predicting data also store in here. (W
 
 task1 is the Tmall task. 
 
-task3 is the HKTVmall task. 
+task3 is the HKTVmall task. To apply the data: https://opendatabank.hktvmall.com/portal/register
