@@ -1,4 +1,5 @@
 To apply the data: https://opendatabank.hktvmall.com/portal/register
+If you get the access right, email the author of this paper, we will give you the training and testing set we used in the experiment.
 
 The data contain the supermarket orders in HKTVmall from 2020-Feb to 2020-Sep.
 In 'whole data', each file contains all order in a month.
